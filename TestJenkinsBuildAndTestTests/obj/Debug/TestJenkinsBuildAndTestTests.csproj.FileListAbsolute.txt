@@ -1,0 +1,11 @@
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTestTests\bin\Debug\TestJenkinsBuildAndTestTests.dll
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTestTests\bin\Debug\TestJenkinsBuildAndTestTests.pdb
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTestTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTestTests\obj\Debug\TestJenkinsBuildAndTestTests.csprojAssemblyReference.cache
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTestTests\obj\Debug\TestJenkinsBuildAndTestTests.csproj.CoreCompileInputs.cache
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTestTests\obj\Debug\TestJenkinsBuildAndTestTests.csproj.CopyComplete
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTestTests\obj\Debug\TestJenkinsBuildAndTestTests.dll
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTestTests\obj\Debug\TestJenkinsBuildAndTestTests.pdb
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTestTests\bin\Debug\TestJenkinsBuildAndTest.exe
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTestTests\bin\Debug\TestJenkinsBuildAndTest.pdb
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTestTests\bin\Debug\TestJenkinsBuildAndTest.exe.config

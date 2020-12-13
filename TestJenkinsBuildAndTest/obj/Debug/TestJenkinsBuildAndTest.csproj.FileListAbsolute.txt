@@ -1,0 +1,7 @@
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTest\bin\Debug\TestJenkinsBuildAndTest.exe.config
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTest\bin\Debug\TestJenkinsBuildAndTest.exe
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTest\bin\Debug\TestJenkinsBuildAndTest.pdb
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTest\obj\Debug\TestJenkinsBuildAndTest.csprojAssemblyReference.cache
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTest\obj\Debug\TestJenkinsBuildAndTest.csproj.CoreCompileInputs.cache
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTest\obj\Debug\TestJenkinsBuildAndTest.exe
+C:\Users\SESA320733\Source\Repos\TestJenkinsBuildAndTest\obj\Debug\TestJenkinsBuildAndTest.pdb
